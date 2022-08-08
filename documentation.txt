@@ -1,0 +1,6 @@
+*install create-react-app
+*run npx create-react-app REACT-TASK
+*create components folder and inside it create button.js,header.js,Task.js,Tasks.js
+*in index.js file import App.js
+*inside App.js file
+        

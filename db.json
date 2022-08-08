@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Gym",
+      "day": "feb 6 10:AM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Library",
+      "day": "feb 6 12:Pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Dental Appointment",
+      "day": "feb 6 1:PM",
+      "reminder": true
+    },
+    {
+      "text": "Movie",
+      "day": "feb 6 3:PM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Party Hall",
+      "day": "feb 6 6:PM",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
